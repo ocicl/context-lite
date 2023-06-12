@@ -1,0 +1,10 @@
+* context-lite
+
+Generic functions that can specialize on special/dynamic variables.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/markasoftware/context-lite.git   |
+| commit  | 8c54224  |
+| systems | context-lite |
+|---------+-------------------------------------------|
+
