@@ -8,4 +8,4 @@ Generic functions that can specialize on special/dynamic variables.
 | systems | context-lite |
 |---------+-------------------------------------------|
 
- 
+  
